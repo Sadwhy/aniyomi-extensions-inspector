@@ -11,7 +11,7 @@ Parts of [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) and [Aniyomi](ht
 You can obtain a copy of `Apache License Version 2.0` from  http://www.apache.org/licenses/LICENSE-2.0
 
 Changes to these codebases is licensed under `MPL 2.0` as the rest of this project.
-
+ 
 ## License
 ```
 Copyright (C) The Aniyomi Open Source Project
